@@ -93,5 +93,5 @@ driver.find_element_by_class_name("cartlink").click()
 # enter the purchased list screen
 driver.find_element_by_xpath("//a[@href='https://www.booknet.co.il/סל-קניות']").click()
 
-# # close browser
+# close browser
 driver.quit()
